@@ -1,9 +1,11 @@
 ﻿{
   "name": "br.jus.trf2.assijus",
   "description": "Assijus Signer",
-  "path": "assijus-chrome-extension.exe",
+  "path": "C:\\Users\\Bruno\\Desktop\\assijus-chrome-extension-dotnet\\assijus-chrome-extension\\bin\\Debug\\assijus-chrome-extension.exe",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension://ifabfihopbhogohngopafekijckmpmka/", "chrome-extension://lnifncldepnkbfaedkdkcmbfbbfhhchm/"
+    "chrome-extension://ifabfihopbhogohngopafekijckmpmka/",
+    "chrome-extension://lnifncldepnkbfaedkdkcmbfbbfhhchm/",
+    "chrome-extension://nmecgindejdohbfmchgekpabcjmlgjbl/"
   ]
 }

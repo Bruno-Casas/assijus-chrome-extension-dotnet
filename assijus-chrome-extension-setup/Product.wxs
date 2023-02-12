@@ -33,8 +33,8 @@
           <RegistryValue Type="string" Value="[INSTALLFOLDER]manifest.json"/>
         </RegistryKey>
         <RegistryKey Root="HKCU"
-                     Key="Software\Google\Chrome\Extensions\ifabfihopbhogohngopafekijckmpmka"
-              ForceCreateOnInstall="yes" ForceDeleteOnUninstall="yes">
+                     Key="Software\Google\Chrome\Extensions\nmecgindejdohbfmchgekpabcjmlgjbl"
+			ForceCreateOnInstall="yes" ForceDeleteOnUninstall="yes">
           <RegistryValue Type="string" Name="update_url" Value="https://clients2.google.com/service/update2/crx"/>
         </RegistryKey>
       </Component>
